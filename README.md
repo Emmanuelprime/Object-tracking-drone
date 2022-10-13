@@ -11,11 +11,11 @@ Roll channel wire from receiver will be connected to pin 33 and Roll channel of 
 Pitch channel wire from receiver will be connected to pin 34 and Pitch channel of Flight Controller will be connected to pin 37.
 
 
-For more details Visit my youtube channel.
+For more details Contact us at Prime Robotics
 
 
-Channel Name: DIYLIFEHACKER
 
 
-Channel Link:   www.youtube.com/c/DIYLIFEHACKER
+
+
 
